@@ -28,4 +28,6 @@ The Servo should exercise itself, the expectation is that 90 degrees is straight
 
 After exercising you should see video on screen with a box around the face that is being detected.  It should follow you pretty well.  
 
-
+TODO:
+ * Port to Python 3.7+
+ 
